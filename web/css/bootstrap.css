@@ -904,7 +904,6 @@ pre code {
     flex: 0 0 16.666667%;
     max-width: 16.666667%;
   }
- 
   .col-sm-3 {
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
@@ -944,7 +943,6 @@ pre code {
     -ms-flex: 0 0 83.333333%;
     flex: 0 0 83.333333%;
     max-width: 83.333333%;
-    padding-left: 200px;
   }
   .col-sm-11 {
     -ms-flex: 0 0 91.666667%;
@@ -2017,7 +2015,6 @@ pre code {
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-  
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -2568,7 +2565,6 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #007bff;
   border-color: #007bff;
- 
 }
 
 .btn-primary:hover {
@@ -2582,7 +2578,6 @@ fieldset:disabled a.btn {
   background-color: #0069d9;
   border-color: #0062cc;
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
-  
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
@@ -2601,7 +2596,6 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
-  
 }
 
 .btn-secondary {
@@ -2754,14 +2748,13 @@ fieldset:disabled a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: #d9dedb;
-  border-color:green;
-  
+  background-color: #dc3545;
+  border-color: #dc3545;
 }
 
 .btn-danger:hover {
   color: #fff;
-  background-color: #b3e8cf;
+  background-color: #c82333;
   border-color: #bd2130;
 }
 
